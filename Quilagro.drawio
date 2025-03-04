@@ -4,12 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart Quilagro Holdings LLC SPA" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="710" height="700" as="geometry" />
         </mxCell>
         <UserObject label="Junta Accionistas&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Shareholders&lt;/i&gt;&lt;/font&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="50" width="180" height="70" as="geometry" />
+            <mxGeometry x="260" y="50" width="190" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
@@ -30,7 +30,7 @@
         </mxCell>
         <UserObject label="Directorio&lt;br&gt;&lt;i style=&quot;color: gray;&quot;&gt;Chair Martin&amp;nbsp;&amp;nbsp;&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="160" width="180" height="80" as="geometry" />
+            <mxGeometry x="260" y="160" width="190" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="CFO &amp;amp; Admin&lt;div&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Marcela?&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;Email&lt;/a&gt;&lt;/div&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="2qUfi1K3x8kVQnl8f9iy-2">
